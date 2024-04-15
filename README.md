@@ -4,18 +4,18 @@
 
 ## Política de Privacidad
 
-[Ver Política de Privacidad](#)
+[Ver Política de Privacidad](Privacidad_es.txt)
 
 ## Derechos de Autor y Propiedad Intelectual
 
-[Ver Derechos de Autor y Propiedad Intelectual](#)
+[Ver Derechos de Autor y Propiedad Intelectual](Derechos_es.txt)
 
 ## Términos de Servicio
 
-[Ver Términos de Servicio](#)
+[Ver Términos de Servicio](ToS_es.txt)
 
 ## Aceptación Automática de Normas
 
-[Ver Aceptación Automática de Normas](#)
+[Ver Aceptación Automática de Normas](00-rules_es.txt)
 
 ¡Gracias por revisar nuestras políticas! Si tienes alguna pregunta o inquietud, no dudes en contactarnos.
