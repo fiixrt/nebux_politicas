@@ -58,10 +58,11 @@ Data is stored while the bot is active in the server or while the user has regis
 
 We are committed to protecting collected data through the following measures:
 
-- Data is stored in a **MongoDB** database protected with authentication and restricted access.
-- Database access is limited solely to the Nebux development team.
+- Data is stored in **MongoDB Atlas** (managed cloud by MongoDB Inc.), which includes **encryption at rest by default (AES-256)** and **encryption in transit via TLS/SSL**.
+- Database access is limited solely to the Nebux development team through protected credentials.
 - No passwords or sensitive data of any kind are stored.
-- Periodic security reviews are conducted to prevent unauthorized access.
+- MongoDB Atlas performs automatic backups and complies with SOC 2, ISO 27001, and ISO 27018 security standards.
+- Periodic access reviews are conducted to prevent unauthorized connections.
 
 ---
 

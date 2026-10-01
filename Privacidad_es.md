@@ -58,10 +58,11 @@ Los datos se almacenan mientras el bot esté activo en el servidor o mientras el
 
 Nos comprometemos a proteger los datos recopilados mediante las siguientes medidas:
 
-- Los datos se almacenan en una base de datos **MongoDB** protegida con autenticación y acceso restringido.
-- El acceso a la base de datos está limitado únicamente al equipo de desarrollo de Nebux.
+- Los datos se almacenan en **MongoDB Atlas** (nube gestionada de MongoDB Inc.), que incluye **encriptación en reposo por defecto (AES-256)** y **encriptación en tránsito mediante TLS/SSL**.
+- El acceso a la base de datos está limitado únicamente al equipo de desarrollo de Nebux mediante credenciales protegidas.
 - No se almacenan contraseñas ni datos sensibles de ningún tipo.
-- Se realizan revisiones periódicas de seguridad para prevenir accesos no autorizados.
+- MongoDB Atlas realiza copias de seguridad automáticas y cumple con los estándares de seguridad SOC 2, ISO 27001 e ISO 27018.
+- Se realizan revisiones periódicas de acceso para prevenir conexiones no autorizadas.
 
 ---
 
